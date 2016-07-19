@@ -1,6 +1,6 @@
-##Flux Boilerplate
+##React InfoFinder
 
-This is a simple boilerplate and file/folder structure for React.js and the Flux architecture.
+This is a simple app is using the duck duck go api to return search results
 
 
 ###Usage
